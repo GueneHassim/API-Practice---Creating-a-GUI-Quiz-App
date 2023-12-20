@@ -1,6 +1,6 @@
 ######## In short #######
 
-OOP program that works with the requests module to make API requests. It utilizes the html library to clean the HTML elements from the text data obtained through the API request. The tkinter library is employed to build the graphical user interface.
+OOP program that works with the requests module to make API requests. than I utilizes the html library to clean the HTML elements from the text data obtained through the API request. The tkinter library is employed to build the graphical user interface.
 
 ########
 
